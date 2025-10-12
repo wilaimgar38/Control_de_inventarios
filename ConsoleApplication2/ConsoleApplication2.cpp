@@ -4,7 +4,7 @@
 #include <iomanip>
 #include <map>
 #include <sstream>
-#include <sqlite3.h> // ⭐ Libreria para la base de datos SQLite
+#include <sqlite3.h> 
 
 using namespace std;
 
